@@ -1,0 +1,28 @@
+{
+  "name": "fish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qddegtya/fish.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qddegtya/fish/issues"
+  },
+  "homepage": "https://github.com/qddegtya/fish#readme",
+  "dependencies": {
+    "llpage": "1.1.x",
+    "path-to-regexp": "^3.0.0",
+    "xajs": "1.0.x"
+  }
+}
