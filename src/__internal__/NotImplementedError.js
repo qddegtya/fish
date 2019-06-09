@@ -1,7 +1,7 @@
 class NotImplementedError extends Error {
   constructor (method) {
     super ()
-    this.message = `[rice] ${method} not implemented, please check it.`
+    this.message = `[fish] ${method} not implemented, please check it.`
   }
 }
 
